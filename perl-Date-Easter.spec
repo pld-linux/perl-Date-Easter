@@ -20,10 +20,11 @@ BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-Perl module for calculating Easter for a given year.
+Date::Easter is a Perl module for calculating Easter for a given year.
 
 %description -l pl
-Modu³ Perla do obliczania daty Wielkanocy w danym roku.
+Date::Easter jest modu³em Perla do obliczania daty Wielkanocy w danym
+roku.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
