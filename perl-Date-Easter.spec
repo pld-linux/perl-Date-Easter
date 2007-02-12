@@ -6,7 +6,7 @@
 %define		pdir	Date
 %define		pnam	Easter
 Summary:	Date::Easter - calculate Easter for any given year
-Summary(pl):	Date::Easter - obliczanie daty Wielkanocy w danym roku
+Summary(pl.UTF-8):   Date::Easter - obliczanie daty Wielkanocy w danym roku
 Name:		perl-Date-Easter
 Version:	1.14
 Release:	1
@@ -22,8 +22,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Date::Easter is a Perl module for calculating Easter for a given year.
 
-%description -l pl
-Date::Easter jest modu≥em Perla do obliczania daty Wielkanocy w danym
+%description -l pl.UTF-8
+Date::Easter jest modu≈Çem Perla do obliczania daty Wielkanocy w danym
 roku.
 
 %prep
