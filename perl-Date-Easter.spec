@@ -6,7 +6,7 @@
 %define		pdir	Date
 %define		pnam	Easter
 Summary:	Date::Easter - calculate Easter for any given year
-Summary(pl.UTF-8):   Date::Easter - obliczanie daty Wielkanocy w danym roku
+Summary(pl.UTF-8):	Date::Easter - obliczanie daty Wielkanocy w danym roku
 Name:		perl-Date-Easter
 Version:	1.14
 Release:	1
