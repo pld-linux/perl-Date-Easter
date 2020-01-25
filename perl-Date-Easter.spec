@@ -4,7 +4,6 @@
 
 %define		pdir	Date
 %define		pnam	Easter
-%include	/usr/lib/rpm/macros.perl
 Summary:	Date::Easter - calculate Easter for any given year
 Summary(pl.UTF-8):	Date::Easter - obliczanie daty Wielkanocy w danym roku
 Name:		perl-Date-Easter
